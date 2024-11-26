@@ -1,0 +1,26 @@
+{
+  "appTitle": "متتبع الديون",
+  "appSubtitle": "تتبع من يدين لك بالمال",
+  "stats": {
+    "outstanding": "المستحق",
+    "collected": "المحصل",
+    "overdue": "متأخر"
+  },
+  "form": {
+    "selectName": "اختر أو أدخل اسماً",
+    "searchOrAddName": "ابحث عن اسم أو أضف اسماً جديداً...",
+    "pressEnterToAdd": "اضغط Enter لإضافة اسم جديد",
+    "amount": "المبلغ",
+    "description": "الوصف",
+    "dueDate": "تاريخ الاستحقاق (اختياري)",
+    "addDebt": "إضافة دين",
+    "search": "البحث في الديون..."
+  },
+  "currency": "د.ع",
+  "actions": {
+    "markPaid": "تعليم كمدفوع",
+    "markUnpaid": "تعليم كغير مدفوع",
+    "addPayment": "إضافة دفعة",
+    "addNote": "إضافة ملاحظة تحصيل..."
+  }
+}

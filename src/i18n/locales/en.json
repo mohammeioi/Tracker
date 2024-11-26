@@ -1,0 +1,26 @@
+{
+  "appTitle": "Debt Tracker",
+  "appSubtitle": "Keep track of who owes you money",
+  "stats": {
+    "outstanding": "Outstanding",
+    "collected": "Collected",
+    "overdue": "Overdue"
+  },
+  "form": {
+    "selectName": "Select or enter name",
+    "searchOrAddName": "Search or add a new name...",
+    "pressEnterToAdd": "Press Enter to add new name",
+    "amount": "Amount",
+    "description": "Description",
+    "dueDate": "Due Date (Optional)",
+    "addDebt": "Add Debt",
+    "search": "Search debts..."
+  },
+  "currency": "IQD",
+  "actions": {
+    "markPaid": "Mark as Paid",
+    "markUnpaid": "Mark as Unpaid",
+    "addPayment": "Add Payment",
+    "addNote": "Add collection note..."
+  }
+}
